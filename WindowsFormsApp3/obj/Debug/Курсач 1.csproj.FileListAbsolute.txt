@@ -1,0 +1,94 @@
+C:\Users\Olga\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Olga\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Olga\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Курсач 1.csprojResolveAssemblyReference.cache
+C:\Users\Olga\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Olga\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Olga\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Курсач 1.csproj.GenerateResource.Cache
+C:\Users\Olga\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Курсач 1.csproj.CoreCompileInputs.cache
+C:\Users\Olga\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Olga\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Olga\Desktop\лабы\Курсач\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Olga\Desktop\лабы\Курсач\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Olga\Desktop\лабы\Курсач\WindowsFormsApp3\obj\Debug\Курсач 1.csprojResolveAssemblyReference.cache
+C:\Users\Olga\Desktop\лабы\Курсач\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Olga\Desktop\лабы\Курсач\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Olga\Desktop\лабы\Курсач\WindowsFormsApp3\obj\Debug\Курсач 1.csproj.GenerateResource.Cache
+C:\Users\Olga\Desktop\лабы\Курсач\WindowsFormsApp3\obj\Debug\Курсач 1.csproj.CoreCompileInputs.cache
+C:\Users\Olga\Desktop\лабы\Курсач\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Olga\Desktop\лабы\Курсач\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Olga\Desktop\Курсач\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Olga\Desktop\Курсач\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Olga\Desktop\Курсач\WindowsFormsApp3\obj\Debug\Курсач 1.csprojResolveAssemblyReference.cache
+C:\Users\Olga\Desktop\Курсач\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Olga\Desktop\Курсач\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Olga\Desktop\Курсач\WindowsFormsApp3\obj\Debug\Курсач 1.csproj.GenerateResource.Cache
+C:\Users\Olga\Desktop\Курсач\WindowsFormsApp3\obj\Debug\Курсач 1.csproj.CoreCompileInputs.cache
+C:\Users\Olga\Desktop\Курсач\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Olga\Desktop\Курсач\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Olga\Desktop\Курсач\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\Olga\Desktop\Курсач\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+C:\Users\Olga\Desktop\Курсач\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form4.resources
+C:\Users\Olga\Desktop\Курсач\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form5.resources
+C:\Users\Olga\Desktop\Курсач\WindowsFormsApp3\bin\Debug\SkinSoft.VisualStyler.dll
+C:\Users\Olga\Desktop\Курсач\WindowsFormsApp3\bin\Debug\SkinSoft.VisualStyler.xml
+E:\Курсач\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\Курсач\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\Курсач\WindowsFormsApp3\bin\Debug\SkinSoft.VisualStyler.dll
+E:\Курсач\WindowsFormsApp3\bin\Debug\SkinSoft.VisualStyler.xml
+E:\Курсач\WindowsFormsApp3\obj\Debug\Курсач 1.csprojResolveAssemblyReference.cache
+E:\Курсач\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\Курсач\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+E:\Курсач\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+E:\Курсач\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form4.resources
+E:\Курсач\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form5.resources
+E:\Курсач\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\Курсач\WindowsFormsApp3\obj\Debug\Курсач 1.csproj.GenerateResource.Cache
+E:\Курсач\WindowsFormsApp3\obj\Debug\Курсач 1.csproj.CoreCompileInputs.cache
+E:\Курсач\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\Курсач\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\LA\инст\Тихоненко\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\LA\инст\Тихоненко\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\LA\инст\Тихоненко\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\bin\Debug\SkinSoft.VisualStyler.xml
+C:\LA\инст\Тихоненко\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\Курсач 1.csprojResolveAssemblyReference.cache
+C:\LA\инст\Тихоненко\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\LA\инст\Тихоненко\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\LA\инст\Тихоненко\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+C:\LA\инст\Тихоненко\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form4.resources
+C:\LA\инст\Тихоненко\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form5.resources
+C:\LA\инст\Тихоненко\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\LA\инст\Тихоненко\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\Курсач 1.csproj.GenerateResource.Cache
+C:\LA\инст\Тихоненко\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\Курсач 1.csproj.CoreCompileInputs.cache
+C:\LA\инст\Тихоненко\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\LA\инст\Тихоненко\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Ольга\Desktop\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Ольга\Desktop\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Ольга\Desktop\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\bin\Debug\SkinSoft.VisualStyler.xml
+C:\Users\Ольга\Desktop\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\Курсач 1.csprojAssemblyReference.cache
+C:\Users\Ольга\Desktop\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Ольга\Desktop\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\Ольга\Desktop\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+C:\Users\Ольга\Desktop\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form4.resources
+C:\Users\Ольга\Desktop\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form5.resources
+C:\Users\Ольга\Desktop\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Ольга\Desktop\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\Курсач 1.csproj.GenerateResource.cache
+C:\Users\Ольга\Desktop\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\Курсач 1.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\Курсач 1.csproj.CopyComplete
+C:\Users\Ольга\Desktop\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Ольга\Desktop\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\LA\инст\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\LA\инст\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\LA\инст\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\LA\инст\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\bin\Debug\SkinSoft.VisualStyler.xml
+C:\LA\инст\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\Курсач 1.csproj.AssemblyReference.cache
+C:\LA\инст\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\Курсач 1.csproj.SuggestedBindingRedirects.cache
+C:\LA\инст\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\LA\инст\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\LA\инст\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+C:\LA\инст\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form4.resources
+C:\LA\инст\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form5.resources
+C:\LA\инст\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\LA\инст\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\Курсач 1.csproj.GenerateResource.cache
+C:\LA\инст\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\Курсач 1.csproj.CoreCompileInputs.cache
+C:\LA\инст\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\Курсач 1.csproj.CopyComplete
+C:\LA\инст\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\LA\инст\Телефонный справочник Баранова БПЭ16-01\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
